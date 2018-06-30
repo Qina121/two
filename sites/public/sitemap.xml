@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://qina121.github.io/post/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/post/about/coming-soon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/post/about/example/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/post/about/form/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/post/about/try/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/post/automation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/post/email/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/post/note/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qina121.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

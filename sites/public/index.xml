@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://qina121.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://qina121.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://qina121.github.io/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qina121.github.io/post/about/</guid>
+      <description>易回眸{{ partial &#34;y-head.html&#34; . }}{{ partial &#34;y-header.html&#34; . }}{{ partial &#34;y-about.html&#34; . }}{{ partial &#34;footer.html&#34; . }}{{ partial &#34;consult.html&#34; . }}</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://qina121.github.io/post/about/coming-soon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qina121.github.io/post/about/coming-soon/</guid>
+      <description>易回眸{{ partial &#34;y-head.html&#34; . }}{{ partial &#34;y-header.html&#34; . }}{{ partial &#34;y-banner.html&#34; . }}{{ partial &#34;comming-soon.html&#34; . }}{{ partial &#34;footer.html&#34; . }}{{ partial &#34;consult.html&#34; . }}</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://qina121.github.io/post/about/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qina121.github.io/post/about/example/</guid>
+      <description>易回眸{{ partial &#34;y-head.html&#34; . }}{{ partial &#34;y-header.html&#34; . }}{{ partial &#34;y-example.html&#34; . }}{{ partial &#34;footer.html&#34; . }}{{ partial &#34;consult.html&#34; . }}</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://qina121.github.io/post/about/form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qina121.github.io/post/about/form/</guid>
+      <description>易回眸{{ partial &#34;y-head.html&#34; . }}{{ partial &#34;y-header.html&#34; . }}{{ partial &#34;y-form.html&#34; . }}{{ partial &#34;y-small-apply.html&#34; . }}{{ partial &#34;footer.html&#34; . }}{{ partial &#34;consult.html&#34; . }} -- --</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://qina121.github.io/post/about/try/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qina121.github.io/post/about/try/</guid>
+      <description>易回眸{{ partial &#34;y-head.html&#34; . }}{{ partial &#34;y-header.html&#34; . }}{{ partial &#34;try.html&#34; . }}{{ partial &#34;y-small-apply.html&#34; . }}{{ partial &#34;footer.html&#34; . }}{{ partial &#34;consult.html&#34; . }} -- --</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://qina121.github.io/post/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qina121.github.io/post/automation/</guid>
+      <description>易回眸{{ partial &#34;y-head.html&#34; . }}{{ partial &#34;y-header.html&#34; . }}{{ partial &#34;y-automation.html&#34; . }}{{ partial &#34;y-autofuncton.html&#34; . }} {{ partial &#34;y-character.html&#34; . }} {{ partial &#34;y-workflow.html&#34; . }} {{ partial &#34;y-report.html&#34; . }} {{ partial &#34;y-smartIo.html&#34; . }} {{ partial &#34;y-marketing.html&#34; . }}{{ partial &#34;y-teamwork.html&#34; . }}{{ partial &#34;y-small-apply.html&#34; . }} {{ partial &#34;footer.html&#34; . }}{{ partial &#34;consult.html&#34; . }}</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://qina121.github.io/post/email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qina121.github.io/post/email/</guid>
+      <description>易回眸{{ partial &#34;y-head.html&#34; . }}{{ partial &#34;y-header.html&#34; . }}{{ partial &#34;y-email-market.html&#34; . }}{{ partial &#34;y-email-product.html&#34; . }}{{ partial &#34;y-more-information.html&#34; . }}{{ partial &#34;email-solution.html&#34; . }}{{ partial &#34;y-small-apply.html&#34; . }}{{ partial &#34;footer.html&#34; . }}{{ partial &#34;consult.html&#34; . }}</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://qina121.github.io/post/note/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qina121.github.io/post/note/</guid>
+      <description>易回眸{{ partial &#34;y-head.html&#34; . }}{{ partial &#34;y-header.html&#34; . }}{{ partial &#34;y-note-market.html&#34; . }}{{ partial &#34;y-note-product.html&#34; . }}{{ partial &#34;y-know-information.html&#34; . }}{{ partial &#34;note-solution.html&#34; . }}{{ partial &#34;y-small-apply.html&#34; . }}{{ partial &#34;footer.html&#34; . }}{{ partial &#34;consult.html&#34; . }}</description>
+    </item>
+    
+  </channel>
+</rss>
