@@ -1930,17 +1930,24 @@ body .smartIo .harvest {
   margin: 0 auto; */
 }
 .y-example .case .success {
-  padding: 176px 0;
+  /* padding: 176px 0; */
   width: 100%;
   /* background-image: linear-gradient(to right, #5ae1c0, #1ec2d0); */
-  color: #000;
-  background-image: url(/images/about.jpg);
-  background-size: 100% 100%;
-  margin-bottom: 90px;
+  color: #fff;
+  /* background-image: url(/images/blue-bg2.png);
+  background-size: 100% 100%; */
+  /* margin-bottom: 90px; */
  
 }
 .y-example .case .success .title{
-  margin-right:17%; 
+  padding: 30px 0 40px;
+  height: 300px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  background-image: url(/images/blue-bg2.png);
+  background-size: 100% 100%;
+  /* margin-right:17%;  */
 }
 .y-example h3 {
   text-align: center;
@@ -1953,17 +1960,18 @@ body .smartIo .harvest {
   text-align: center;
   font-size: 26px;
   font-weight: 400;
-  line-height: 32px;
+  /* line-height: 32px; */
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   margin-top: 20px;
-  margin-bottom: 40px;
+  margin-bottom: 00px;
 }
 .y-example .inverse {
   color: #666;
 }
 .example-case{
   height: 600px;
+  margin-top: -55px;
 }
 .example-case .title{
   text-align: center;
@@ -1971,19 +1979,19 @@ body .smartIo .harvest {
   margin-bottom: 10px;
 }
 .example-case .title .case{
-  background-color: #fff;
-  color: #e27a24;
+  background-color: #26c3f2;
+  color: #fff;
   display: inline-block;
   width: 100px;
   text-align: center;
-  border: 1px solid #e27a24;
+  border: 1px solid #fff;
   padding: 10px 30px 0;
   position: relative;
   cursor: pointer;
 }
 .example-case .title .CaseA{
-  background-color: #e27a24;
-  color: #fff;
+  background-color: #fff;
+  color: #26c3f2;
   border-radius: 4px 0 0 4px;
 }
 .example-case .title .CaseA .triangle{
@@ -2023,7 +2031,7 @@ body .smartIo .harvest {
   padding: 2px;
   border-radius: 10px;
   overflow: hidden;
-  border: 3px solid #e27a24;
+  /* border: 3px solid #e27a24; */
 }
 .example-case .Case_example{
   /* background-color: #e27a24; */

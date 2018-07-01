@@ -213,15 +213,15 @@ $(document).ready(function() {
       var index = $(this).index();
       switchNum =index;
       for(var i=0;i<title.length;i++){
-        title.eq(i).css({"color":"#e27a24","backgroundColor":"#fff"});
+        title.eq(i).css({"color":"#fff","backgroundColor":"#26c3f2"});
         // content.eq(i).css('display','none');
-        mark.eq(i).css('display','none');
+        // mark.eq(i).css('display','none');
         desc.eq(i).css('display','none');
       }
-      title.eq(switchNum).css({"color":"#fff","backgroundColor":"#e27a24"});
+      title.eq(switchNum).css({"color":"#26c3f2","backgroundColor":"#fff"});
       // content.eq(switchNum).css('display','flex');
       content.stop().animate({ "marginLeft": -1080*switchNum+'px'}, 300);
-      mark.eq(switchNum).css('display','block');
+      // mark.eq(switchNum).css('display','block');
       desc.eq(switchNum).css('display','block');
     })
   }
@@ -243,14 +243,14 @@ $(document).ready(function() {
         
       }
       for(var i=0;i<title.length;i++){
-        title.eq(i).css({"color":"#e27a24","backgroundColor":"#fff"});
-        mark.eq(i).css('display','none');
+        title.eq(i).css({"color":"#fff","backgroundColor":"#26c3f2"});
+        // mark.eq(i).css('display','none');
         desc.eq(i).css('display','none');
       }
-      title.eq(switchNum).css({"color":"#fff","backgroundColor":"#e27a24"});
+      title.eq(switchNum).css({"color":"#26c3f2","backgroundColor":"#fff"});
       // content.stop().animate({ "marginLeft": -1080*switchNum+'px'}, 300);
       
-      mark.eq(switchNum).css('display','block');
+      // mark.eq(switchNum).css('display','block');
       desc.eq(switchNum).css('display','block');
       
     },2500);
